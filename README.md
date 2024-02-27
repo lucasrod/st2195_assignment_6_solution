@@ -39,6 +39,10 @@ The analysis results are stored in the following CSV files:
 - `good_indicators.csv`: Contains the 20 most common words associated with positive exchange rate returns.
 - `bad_indicators.csv`: Contains the 20 most common words associated with negative exchange rate returns.
 
+## Live Session Recording
+
+For a detailed walkthrough of the solution, you can watch the live session recording where the teacher, Inès Krissaane, discusses the assignment: [ST2195 Assignment 6 Live Session](https://www.youtube.com/watch?v=bf9efGpV3-I).
+
 ## Usage
 
 To replicate the analysis, clone this repository, navigate to the directory containing the scripts, and run the Python and R scripts. Ensure that the required datasets are downloaded and saved as `speeches.csv` and `fx.csv` in the same directory.
